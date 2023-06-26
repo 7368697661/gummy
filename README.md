@@ -30,6 +30,10 @@ Gummy supports a variety of plugins including Make.md, Kanban, Omnisearch, Bette
 
 I'm working on refining the theme, introducing new color schemes, a monochrome mode, and creating better graphics to showcase the theme.
 
+⚠️ Help Wanted!
+
+I would love some new graphics showing off the theme. Feel free to dm or message me on Discord with screenshots or showcases and I would love to work together to add better graphics to this readme :)
+
 📕 About
 
 Gummy was born out of my admiration for the new design direction Obsidian is taking. I'm excited to share Gummy with you, a theme that celebrates and enhances Obsidian's sleek, modern design. Stay tuned for updates as I continue to refine and polish Gummy to perfection! 🚀
