@@ -15,7 +15,7 @@ While Gummy doesn't offer Style Settings or color schemes, the ambiant gradient 
 📝 Typography
 ![image3](https://github.com/7368697661/gummy/assets/87339163/10d19176-2363-47dc-89ce-89c1d1052dea)
 
-I've carefully selected typefaces that complement Obsidian's new design language. The default title typeface is Roboto, the body and UI typeface is Open Sans, and the monospace typeface is Fira Code.
+I've carefully selected typefaces that complement Obsidian's new design language. The default title typeface is [Peace Sans](https://www.behance.net/gallery/34760019/Peace-Sans-FREE-FONT?tracking_source=search_projects_recommended|free%20font), the body font is [Space Grotesk](https://fonts.floriankarsten.com/space-grotesk) and UI typeface is [Inter](https://rsms.me/inter/), and the monospace typeface is [Source Code Pro](https://github.com/adobe-fonts/source-code-pro).
 
 ✨ Extras
 ![image4](https://github.com/7368697661/gummy/assets/87339163/ebf11b60-66e0-43f3-9855-f2b239300f55)
@@ -25,6 +25,21 @@ Gummy includes custom folder collapse styling,canvas support, special list check
 ⬇️ Plugin Support
 
 Gummy supports a variety of plugins including Make.md, Kanban, Omnisearch, Better Command Palette, Influx, Strange New Worlds, Reminder, Memo, and Surfing.
+
+🥰 Credits
+
+- 💙 You, for reading this & trying my theme.
+- 🐕 Anubis for their folder code
+- 🏛️ Sanctum for their lists
+- 🧊 Tabular for the icons
+- 📃 Origami for its' code
+- 🦞 Ultra Lobster for its' code
+- 🎨 The gifted theme community, for their inspiration.
+- ✨ The amazing plugin developers, for their time.
+- 🖥️ The modern app designers, for their smooth and intuitive interfaces.
+- 💎 Obsidian, for the amazing program to theme.
+- ⌨️ The typeface designers for their work.
+
 
 🏗️ Todo
 
