@@ -1608,6 +1608,14 @@ a.tag:hover,
 	/* border: var(--o-border); */
 }
 
+.is-mobile .nav-file {
+    padding-left: 8px;
+}
+
+.is-mobile .nav-folder.mod-root .nav-folder > .nav-folder-children {
+    margin: 0 0 0 28px;
+}
+
 /* .nav-folder.mod-root .nav-folder > .nav-folder-children {
 	background: var(--background-primary);
 	margin: 0;
